@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on my imposter syndrome XD <br>🌱 I’m currently learning RUST<br>⚡ Fun fact i can't do both so i chose rust XD 
+👾 I’m currently working on my imposter syndrome XD <br>🦀 I’m currently learning RUST<br>💅🏼 Fun fact i can't do both so i chose rust XD 
 
 
 # 💻 Tech Stack:
