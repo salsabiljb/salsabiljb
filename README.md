@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**salsabiljb/salsabiljb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 # 💫 About Me:
@@ -15,4 +13,3 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=salsabiljb&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=salsabiljb&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
