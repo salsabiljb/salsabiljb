@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-
-Here are some ideas to get you started:
 # 💫 About Me:
 🔭 I’m currently working on my imposter syndrome XD <br>🌱 I’m currently learning RUST<br>⚡ Fun fact i can't do both so i chose rust XD 
 
